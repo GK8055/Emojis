@@ -1,0 +1,33 @@
+/* Write your code here. */
+.app_container {
+  background-color: #9796f0;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.emoji_logo_size {
+  height: 30px;
+  width: 30px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+text {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
+.emoji_body {
+  flex-wrap: wrap;
+  display: flex;
+}
+.unOrderedList {
+  list-style-type: none;
+}
